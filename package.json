@@ -17,6 +17,7 @@
     "hexo-server": "^0.3.3"
   },
   "devDependencies": {
+    "hexo-deployer-git": "^1.0.0",
     "hexo-deployer-rsync": "^0.1.3"
   }
 }
