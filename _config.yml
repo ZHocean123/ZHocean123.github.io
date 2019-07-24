@@ -80,5 +80,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/ZHocean123/ZHocean123.github.io.git
-  branch: publish
+  branch: gh-pages
   message: publish
